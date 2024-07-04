@@ -1,0 +1,2468 @@
+storageVersion: 1
+maps:
+  2165:
+    ==: ImageMaps.Map
+    image: gobaiosairo.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2166:
+    ==: ImageMaps.Map
+    image: gobaiosairo.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2167:
+    ==: ImageMaps.Map
+    image: gobaiosairo.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2168:
+    ==: ImageMaps.Map
+    image: gobaiosairo.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2169:
+    ==: ImageMaps.Map
+    image: gobaiosairo.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2170:
+    ==: ImageMaps.Map
+    image: gobaiosairo.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2171:
+    ==: ImageMaps.Map
+    image: notburgeking.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2172:
+    ==: ImageMaps.Map
+    image: notburgeking.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2173:
+    ==: ImageMaps.Map
+    image: notburgeking.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2174:
+    ==: ImageMaps.Map
+    image: notburgeking.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2175:
+    ==: ImageMaps.Map
+    image: notburgeking.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2176:
+    ==: ImageMaps.Map
+    image: notburgeking.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2177:
+    ==: ImageMaps.Map
+    image: nbkmedo.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2178:
+    ==: ImageMaps.Map
+    image: nbkmedo.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2179:
+    ==: ImageMaps.Map
+    image: nbkmedo.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2180:
+    ==: ImageMaps.Map
+    image: nbkmedo.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2181:
+    ==: ImageMaps.Map
+    image: nbkmedo.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2182:
+    ==: ImageMaps.Map
+    image: nbkmedo.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2183:
+    ==: ImageMaps.Map
+    image: bklogo.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2184:
+    ==: ImageMaps.Map
+    image: bklogo.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2185:
+    ==: ImageMaps.Map
+    image: bklogo.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2186:
+    ==: ImageMaps.Map
+    image: bklogo.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2187:
+    ==: ImageMaps.Map
+    image: print.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2188:
+    ==: ImageMaps.Map
+    image: print.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2189:
+    ==: ImageMaps.Map
+    image: print.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2190:
+    ==: ImageMaps.Map
+    image: print.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2191:
+    ==: ImageMaps.Map
+    image: print.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2192:
+    ==: ImageMaps.Map
+    image: print.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2193:
+    ==: ImageMaps.Map
+    image: sapo.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2194:
+    ==: ImageMaps.Map
+    image: sapo.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2195:
+    ==: ImageMaps.Map
+    image: sapo.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2196:
+    ==: ImageMaps.Map
+    image: sapo.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2197:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2198:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2199:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2200:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 0
+    y: 3
+    scale: 1.0
+  2201:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2202:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2203:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2204:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 1
+    y: 3
+    scale: 1.0
+  2205:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2206:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2207:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2208:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 2
+    y: 3
+    scale: 1.0
+  2209:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2210:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2211:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2212:
+    ==: ImageMaps.Map
+    image: nbkchanref.png
+    x: 3
+    y: 3
+    scale: 1.0
+  2213:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2214:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2215:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2216:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 0
+    y: 3
+    scale: 1.0
+  2217:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2218:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2219:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2220:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 1
+    y: 3
+    scale: 1.0
+  2221:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2222:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2223:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2224:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 2
+    y: 3
+    scale: 1.0
+  2225:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2226:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2227:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2228:
+    ==: ImageMaps.Map
+    image: oveiafoda.png
+    x: 3
+    y: 3
+    scale: 1.0
+  2229:
+    ==: ImageMaps.Map
+    image: nbklogo.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2230:
+    ==: ImageMaps.Map
+    image: nbklogo.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2231:
+    ==: ImageMaps.Map
+    image: nbklogo.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2232:
+    ==: ImageMaps.Map
+    image: nbklogo.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2233:
+    ==: ImageMaps.Map
+    image: rap.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2234:
+    ==: ImageMaps.Map
+    image: rap.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2235:
+    ==: ImageMaps.Map
+    image: rap.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2236:
+    ==: ImageMaps.Map
+    image: rap.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2237:
+    ==: ImageMaps.Map
+    image: rap.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2238:
+    ==: ImageMaps.Map
+    image: rap.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2239:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2240:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2241:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2242:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2243:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2244:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2245:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2246:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2247:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2248:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2249:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2250:
+    ==: ImageMaps.Map
+    image: fnf.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2251:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2252:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2253:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2254:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 0
+    y: 3
+    scale: 1.0
+  2255:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 0
+    y: 4
+    scale: 1.0
+  2256:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 0
+    y: 5
+    scale: 1.0
+  2257:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 0
+    y: 6
+    scale: 1.0
+  2258:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2259:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2260:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2261:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 1
+    y: 3
+    scale: 1.0
+  2262:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 1
+    y: 4
+    scale: 1.0
+  2263:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 1
+    y: 5
+    scale: 1.0
+  2264:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 1
+    y: 6
+    scale: 1.0
+  2265:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2266:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2267:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2268:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 2
+    y: 3
+    scale: 1.0
+  2269:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 2
+    y: 4
+    scale: 1.0
+  2270:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 2
+    y: 5
+    scale: 1.0
+  2271:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 2
+    y: 6
+    scale: 1.0
+  2272:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2273:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2274:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2275:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 3
+    y: 3
+    scale: 1.0
+  2276:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 3
+    y: 4
+    scale: 1.0
+  2277:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 3
+    y: 5
+    scale: 1.0
+  2278:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 3
+    y: 6
+    scale: 1.0
+  2279:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 4
+    y: 0
+    scale: 1.0
+  2280:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 4
+    y: 1
+    scale: 1.0
+  2281:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 4
+    y: 2
+    scale: 1.0
+  2282:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 4
+    y: 3
+    scale: 1.0
+  2283:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 4
+    y: 4
+    scale: 1.0
+  2284:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 4
+    y: 5
+    scale: 1.0
+  2285:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 4
+    y: 6
+    scale: 1.0
+  2286:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 5
+    y: 0
+    scale: 1.0
+  2287:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 5
+    y: 1
+    scale: 1.0
+  2288:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 5
+    y: 2
+    scale: 1.0
+  2289:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 5
+    y: 3
+    scale: 1.0
+  2290:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 5
+    y: 4
+    scale: 1.0
+  2291:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 5
+    y: 5
+    scale: 1.0
+  2292:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 5
+    y: 6
+    scale: 1.0
+  2293:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 6
+    y: 0
+    scale: 1.0
+  2294:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 6
+    y: 1
+    scale: 1.0
+  2295:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 6
+    y: 2
+    scale: 1.0
+  2296:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 6
+    y: 3
+    scale: 1.0
+  2297:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 6
+    y: 4
+    scale: 1.0
+  2298:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 6
+    y: 5
+    scale: 1.0
+  2299:
+    ==: ImageMaps.Map
+    image: mapagrandao.png
+    x: 6
+    y: 6
+    scale: 1.0
+  2300:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2301:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2302:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2303:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2304:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2305:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2306:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2307:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2308:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2309:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2310:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2311:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2312:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 4
+    y: 0
+    scale: 1.0
+  2313:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 4
+    y: 1
+    scale: 1.0
+  2314:
+    ==: ImageMaps.Map
+    image: gael2022.png
+    x: 4
+    y: 2
+    scale: 1.0
+  2315:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2316:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2317:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2318:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2319:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2320:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2321:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2322:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2323:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2324:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2325:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2326:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2327:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 4
+    y: 0
+    scale: 1.0
+  2328:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 4
+    y: 1
+    scale: 1.0
+  2329:
+    ==: ImageMaps.Map
+    image: yuui2022.png
+    x: 4
+    y: 2
+    scale: 1.0
+  2330:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2331:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2332:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2333:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2334:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2335:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2336:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2337:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2338:
+    ==: ImageMaps.Map
+    image: gael2021.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2339:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2340:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2341:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2342:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2343:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2344:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2345:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2346:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2347:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2348:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2349:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2350:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2351:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 4
+    y: 0
+    scale: 1.0
+  2352:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 4
+    y: 1
+    scale: 1.0
+  2353:
+    ==: ImageMaps.Map
+    image: goat2021.png
+    x: 4
+    y: 2
+    scale: 1.0
+  2354:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2355:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2356:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2357:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2358:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2359:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2360:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2361:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2362:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2363:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2364:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2365:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2366:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 4
+    y: 0
+    scale: 1.0
+  2367:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 4
+    y: 1
+    scale: 1.0
+  2368:
+    ==: ImageMaps.Map
+    image: raq2021.png
+    x: 4
+    y: 2
+    scale: 1.0
+  2369:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2370:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2371:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2372:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 0
+    y: 3
+    scale: 1.0
+  2373:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2374:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2375:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2376:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 1
+    y: 3
+    scale: 1.0
+  2377:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2378:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2379:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2380:
+    ==: ImageMaps.Map
+    image: yearbook.png
+    x: 2
+    y: 3
+    scale: 1.0
+  2381:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2382:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2383:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2384:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2385:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2386:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2387:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2388:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2389:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2390:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2391:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2392:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2393:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 4
+    y: 0
+    scale: 1.0
+  2394:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 4
+    y: 1
+    scale: 1.0
+  2395:
+    ==: ImageMaps.Map
+    image: raqdoidinho1.png
+    x: 4
+    y: 2
+    scale: 1.0
+  2396:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2397:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2398:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2399:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2400:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2401:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2402:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2403:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2404:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2405:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2406:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2407:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2408:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 4
+    y: 0
+    scale: 1.0
+  2409:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 4
+    y: 1
+    scale: 1.0
+  2410:
+    ==: ImageMaps.Map
+    image: raqdoidinho2.png
+    x: 4
+    y: 2
+    scale: 1.0
+  2411:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2412:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2413:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2414:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2415:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2416:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2417:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2418:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2419:
+    ==: ImageMaps.Map
+    image: parede1.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2420:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2421:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2422:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2423:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2424:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2425:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2426:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2427:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2428:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2429:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2430:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2431:
+    ==: ImageMaps.Map
+    image: parede2.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2432:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2433:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2434:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2435:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2436:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2437:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2438:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2439:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2440:
+    ==: ImageMaps.Map
+    image: parede3.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2441:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2442:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2443:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2444:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2445:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2446:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2447:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2448:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2449:
+    ==: ImageMaps.Map
+    image: parede4.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2450:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2451:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2452:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2453:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2454:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2455:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2456:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2457:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2458:
+    ==: ImageMaps.Map
+    image: parede5.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2459:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2460:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2461:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2462:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2463:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2464:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2465:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2466:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2467:
+    ==: ImageMaps.Map
+    image: parede4alt.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2468:
+    ==: ImageMaps.Map
+    image: nahidwin.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2469:
+    ==: ImageMaps.Map
+    image: bandeiragay.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2470:
+    ==: ImageMaps.Map
+    image: bandeiragay.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2471:
+    ==: ImageMaps.Map
+    image: bandeiragay.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2472:
+    ==: ImageMaps.Map
+    image: bandeiragay.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2473:
+    ==: ImageMaps.Map
+    image: bandeiragay.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2474:
+    ==: ImageMaps.Map
+    image: bandeiragay.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2475:
+    ==: ImageMaps.Map
+    image: bandeiralesb.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2476:
+    ==: ImageMaps.Map
+    image: bandeiralesb.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2477:
+    ==: ImageMaps.Map
+    image: bandeiralesb.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2478:
+    ==: ImageMaps.Map
+    image: bandeiralesb.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2479:
+    ==: ImageMaps.Map
+    image: bandeiralesb.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2480:
+    ==: ImageMaps.Map
+    image: bandeiralesb.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2481:
+    ==: ImageMaps.Map
+    image: bandeirabi.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2482:
+    ==: ImageMaps.Map
+    image: bandeirabi.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2483:
+    ==: ImageMaps.Map
+    image: bandeirabi.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2484:
+    ==: ImageMaps.Map
+    image: bandeirabi.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2485:
+    ==: ImageMaps.Map
+    image: bandeirabi.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2486:
+    ==: ImageMaps.Map
+    image: bandeirabi.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2487:
+    ==: ImageMaps.Map
+    image: bandeirapan.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2488:
+    ==: ImageMaps.Map
+    image: bandeirapan.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2489:
+    ==: ImageMaps.Map
+    image: bandeirapan.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2490:
+    ==: ImageMaps.Map
+    image: bandeirapan.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2491:
+    ==: ImageMaps.Map
+    image: bandeirapan.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2492:
+    ==: ImageMaps.Map
+    image: bandeirapan.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2493:
+    ==: ImageMaps.Map
+    image: bandeiranb.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2494:
+    ==: ImageMaps.Map
+    image: bandeiranb.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2495:
+    ==: ImageMaps.Map
+    image: bandeiranb.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2496:
+    ==: ImageMaps.Map
+    image: bandeiranb.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2497:
+    ==: ImageMaps.Map
+    image: bandeiranb.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2498:
+    ==: ImageMaps.Map
+    image: bandeiranb.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2499:
+    ==: ImageMaps.Map
+    image: bandeiratrans.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2500:
+    ==: ImageMaps.Map
+    image: bandeiratrans.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2501:
+    ==: ImageMaps.Map
+    image: bandeiratrans.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2502:
+    ==: ImageMaps.Map
+    image: bandeiratrans.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2503:
+    ==: ImageMaps.Map
+    image: bandeiratrans.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2504:
+    ==: ImageMaps.Map
+    image: bandeiratrans.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2505:
+    ==: ImageMaps.Map
+    image: bandeirademi.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2506:
+    ==: ImageMaps.Map
+    image: bandeirademi.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2507:
+    ==: ImageMaps.Map
+    image: bandeirademi.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2508:
+    ==: ImageMaps.Map
+    image: bandeirademi.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2509:
+    ==: ImageMaps.Map
+    image: bandeirademi.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2510:
+    ==: ImageMaps.Map
+    image: bandeirademi.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2511:
+    ==: ImageMaps.Map
+    image: bandeiraally.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2512:
+    ==: ImageMaps.Map
+    image: bandeiraally.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2513:
+    ==: ImageMaps.Map
+    image: bandeiraally.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2514:
+    ==: ImageMaps.Map
+    image: bandeiraally.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2515:
+    ==: ImageMaps.Map
+    image: bandeiraally.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2516:
+    ==: ImageMaps.Map
+    image: bandeiraally.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2517:
+    ==: ImageMaps.Map
+    image: bandeirareci.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2518:
+    ==: ImageMaps.Map
+    image: bandeirareci.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2519:
+    ==: ImageMaps.Map
+    image: bandeirareci.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2520:
+    ==: ImageMaps.Map
+    image: bandeirareci.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2521:
+    ==: ImageMaps.Map
+    image: bandeirareci.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2522:
+    ==: ImageMaps.Map
+    image: bandeirareci.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2523:
+    ==: ImageMaps.Map
+    image: luvadepredero.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2524:
+    ==: ImageMaps.Map
+    image: luvadepredero.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2525:
+    ==: ImageMaps.Map
+    image: luvadepredero.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2526:
+    ==: ImageMaps.Map
+    image: luvadepredero.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2527:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 0
+    y: 0
+    scale: 1.0
+  2528:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 0
+    y: 1
+    scale: 1.0
+  2529:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 0
+    y: 2
+    scale: 1.0
+  2530:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 0
+    y: 3
+    scale: 1.0
+  2531:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 0
+    y: 4
+    scale: 1.0
+  2532:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 0
+    y: 5
+    scale: 1.0
+  2533:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 0
+    y: 6
+    scale: 1.0
+  2534:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 1
+    y: 0
+    scale: 1.0
+  2535:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 1
+    y: 1
+    scale: 1.0
+  2536:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 1
+    y: 2
+    scale: 1.0
+  2537:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 1
+    y: 3
+    scale: 1.0
+  2538:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 1
+    y: 4
+    scale: 1.0
+  2539:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 1
+    y: 5
+    scale: 1.0
+  2540:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 1
+    y: 6
+    scale: 1.0
+  2541:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 2
+    y: 0
+    scale: 1.0
+  2542:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 2
+    y: 1
+    scale: 1.0
+  2543:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 2
+    y: 2
+    scale: 1.0
+  2544:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 2
+    y: 3
+    scale: 1.0
+  2545:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 2
+    y: 4
+    scale: 1.0
+  2546:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 2
+    y: 5
+    scale: 1.0
+  2547:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 2
+    y: 6
+    scale: 1.0
+  2548:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 3
+    y: 0
+    scale: 1.0
+  2549:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 3
+    y: 1
+    scale: 1.0
+  2550:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 3
+    y: 2
+    scale: 1.0
+  2551:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 3
+    y: 3
+    scale: 1.0
+  2552:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 3
+    y: 4
+    scale: 1.0
+  2553:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 3
+    y: 5
+    scale: 1.0
+  2554:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 3
+    y: 6
+    scale: 1.0
+  2555:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 4
+    y: 0
+    scale: 1.0
+  2556:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 4
+    y: 1
+    scale: 1.0
+  2557:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 4
+    y: 2
+    scale: 1.0
+  2558:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 4
+    y: 3
+    scale: 1.0
+  2559:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 4
+    y: 4
+    scale: 1.0
+  2560:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 4
+    y: 5
+    scale: 1.0
+  2561:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 4
+    y: 6
+    scale: 1.0
+  2562:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 5
+    y: 0
+    scale: 1.0
+  2563:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 5
+    y: 1
+    scale: 1.0
+  2564:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 5
+    y: 2
+    scale: 1.0
+  2565:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 5
+    y: 3
+    scale: 1.0
+  2566:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 5
+    y: 4
+    scale: 1.0
+  2567:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 5
+    y: 5
+    scale: 1.0
+  2568:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 5
+    y: 6
+    scale: 1.0
+  2569:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 6
+    y: 0
+    scale: 1.0
+  2570:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 6
+    y: 1
+    scale: 1.0
+  2571:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 6
+    y: 2
+    scale: 1.0
+  2572:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 6
+    y: 3
+    scale: 1.0
+  2573:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 6
+    y: 4
+    scale: 1.0
+  2574:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 6
+    y: 5
+    scale: 1.0
+  2575:
+    ==: ImageMaps.Map
+    image: obrigadotoriyamasensei.png
+    x: 6
+    y: 6
+    scale: 1.0

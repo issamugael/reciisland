@@ -1,0 +1,25 @@
+#Configurações de tags
+#Compatível com AtlasClans, yClans e StormClans
+# %clan_name%
+# %clan_tag%
+#
+#AVISO: A ordem do TAB aparecerá na mesma ordem da lista aqui da config
+#EXEMPLO: Master no topo, depois gerente, admin e assim, sucessivamente
+#
+# Placeholders do PlaceHolderAPI (Em caso de não funcionar, utilize "placeholderapi_" antes. Ex: "%placeholderapi_stormtags_display%"):
+# - %stormtags_display% - Display da tag
+#
+
+Tags:
+  adm:
+    prioridade: 8
+    perm: "tag.adm"
+    tag: "&3"
+    suffix: "nulo"
+    display: "nulo"
+  membro:
+    prioridade: 1
+    perm: "nulo"
+    tag: "nulo"
+    suffix: "nulo"
+    display: "&nulo"

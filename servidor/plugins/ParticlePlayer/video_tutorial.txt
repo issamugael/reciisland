@@ -1,0 +1,13 @@
+IMPORTANT
+All the videos must have a 10 fps frame rate to be displayed correctly.
+The video player renders 10 pixels each blocks, so a resolutions of 160x90 would be 16 by 9 blocks!
+
+In order to meet the requirements stated above, I suggest the following steps:
+1. Open your browser and go to https://video.online-convert.com/convert-to-mp4
+2. Drag and drop your video file on the green box
+3. Under "Width" I suggest writing 160 (but put something lower if you're experiencing lag)
+4. Under "Height" I suggest writing 90 (but put something lower if you're experiencing lag)
+5. Under "Change frame rate:" write "10"
+6. Click "Start" at the bottom of the page
+7. Wait
+8. The download should start automatically, but if it doesn't, click "Download"
